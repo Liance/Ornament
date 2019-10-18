@@ -91,7 +91,7 @@ p {
     font-size: 13pt;
     color: #888;
     line-height: 1.7em;
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 a {
@@ -152,7 +152,7 @@ p.choice {
 
 /* first choice */
 :not(.choice) + .choice {
-    padding-top: 1em; 
+    padding-top: 1em;
 }
 
 
