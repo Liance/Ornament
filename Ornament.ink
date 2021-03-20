@@ -2,9 +2,8 @@
 # theme: dark
 # title: ❄Ornament❄
 -(replay)
+#IMAGE: 1.png
 <i>For as long as I can remember, I've always had a tiny plastic Christmas tree growing out of my head.</i>
-
-I want to make a change. 
 
 *<i>No one else besides me can see it.</i>
 -
